@@ -1,3 +1,0 @@
-# checlist
-- [ ] testing
-- [ ] documentaion
